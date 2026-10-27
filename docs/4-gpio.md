@@ -45,8 +45,8 @@ Half-Duplex Mode allows for one or multiple Communicative Components to communic
 * **GPIO 3** : Open-Drain Interrupt. Pulled up at the Core (5mA nominal at 5 volts), Components can drive it low to indicate an urgent message.
 * **GPIO 4** : Push-Pull Suspend/Reset. Driven by the Core, when low all Communicative Components are expected to enter a suspended state. On the high-going transition of this signal, Components are expected to resume operation in a reset state. This signal is used to fix hanging/broken Components, and to perform regular restarts to clear memory fragmentation.
 
-
-
 ### Full-Duplex Mode
 
 Full-Duplex Mode allows for one high-bandwidth component to communicate exclusively with the Core.
+
+At this time, there are no use-cases for the Full-Duplex mode that the standard allows for, so no standards are developed.
