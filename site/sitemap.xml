@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
       <url>
-        <loc>https://www.example.com/</loc>
+        <loc>https://makeacs.github.io/HW-Standards/</loc>
       </url>
       <url>
-        <loc>https://www.example.com/markdown/</loc>
+        <loc>https://makeacs.github.io/HW-Standards/1-connections/</loc>
+      </url>
+      <url>
+        <loc>https://makeacs.github.io/HW-Standards/2-power/</loc>
+      </url>
+      <url>
+        <loc>https://makeacs.github.io/HW-Standards/3-component-id/</loc>
+      </url>
+      <url>
+        <loc>https://makeacs.github.io/HW-Standards/4-gpio/</loc>
+      </url>
+      <url>
+        <loc>https://makeacs.github.io/HW-Standards/5-bus-communication/</loc>
       </url>
 </urlset>
